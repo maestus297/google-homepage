@@ -6,3 +6,5 @@ Skills used:
 - Apply CSS to html
 - Position divs and apply CSS IDs to them
 - Learned about transform: translate and display block
+- Created nav bar with two different methods
+- Learned to utilize snap attribute
